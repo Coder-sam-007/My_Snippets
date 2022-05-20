@@ -1,5 +1,5 @@
-# c-snippets
-C++ snippets that's makes our life easier
+# college stuff
 
+here i will upload my codes n track all my coding stuff
 
-hapy coding.....
+happy coding...
