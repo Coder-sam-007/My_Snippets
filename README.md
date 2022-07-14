@@ -1,5 +1,5 @@
-# college stuff
+# My Snippets
 
-here i will upload my codes n track all my coding stuff
+I have created C and C++ snippets which will help you to code much faster..
 
 happy coding...
